@@ -1,6 +1,6 @@
 ### Hi there 👋
-:muscle: I’m currently working on BoJio_Fit, a gym tracker application 
-🌱 I’m currently learning Vue + Vite 
+:muscle: I’m currently working on BoJio_Fit, a gym tracker application    
+🌱 I’m currently learning Vue + Vite    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuacx13&layout=donut-vertical)](https://github.com/chuacx13/github-readme-stats)
 <!--
 **Chuacx13/Chuacx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
