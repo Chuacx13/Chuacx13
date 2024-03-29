@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+![image](https://github.com/Chuacx13/Chuacx13/assets/123709912/78a65f49-537f-4659-bc3f-22e5c10bcd69)
+![image](https://github.com/Chuacx13/Chuacx13/assets/123709912/5942c637-03fc-465b-89b6-3010defa4df6)
+https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg
+![image](https://github.com/Chuacx13/Chuacx13/assets/123709912/7872ec11-c4e9-4250-849b-dd323dfe75f2)
+![image](https://github.com/Chuacx13/Chuacx13/assets/123709912/18f9da68-2ee2-4586-a1ac-03503b1f0728)
+![image](https://github.com/Chuacx13/Chuacx13/assets/123709912/42569673-1d82-477a-a9b6-6dba0d0844e3)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuacx13&layout=donut-vertical)](https://github.com/chuacx13/github-readme-stats)
 <!--
 **Chuacx13/Chuacx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
