@@ -1,7 +1,5 @@
 ### Hi there 👋
-:muscle: I’m currently working on WealthHealth, a portfolio management web application.    
-🌱 I’m currently learning SpringBoot and Docker. 
-
+:muscle: I’m currently working on MWHMart!
 
 
 <!--
@@ -19,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌱 I’m currently learning SpringBoot and Docker. 
 -->
